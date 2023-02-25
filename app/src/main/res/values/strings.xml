@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerActivity</string>
+    <string name="enter_address">enter address</string>
+    <string name="enter_phone">enter phone</string>
+    <string name="enter_name">enter name</string>
+    <string name="message">message</string>
+    <string name="update">update</string>
+</resources>
